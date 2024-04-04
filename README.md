@@ -14,4 +14,6 @@
 > * **Hudson Oliva Gonzales**
 >   Tengo 20 años, naci en Piura, me gusta los videojuegos y el futbol. Tengo 2 perros mascota llamados Rocco y Canela.
 >   software
-
+>
+> * **Adriana Martha Valerio Dominguez**
+>   Tengo 19 años, naci en la ciudad de Huancayo, estudio Ingenieria Biomedia en las universidades PUCP y UPCH, me gusta futbol, el voley y los videosjuegos. Mi rol en el equipo es de investigacion 
